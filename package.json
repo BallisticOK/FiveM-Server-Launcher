@@ -22,7 +22,7 @@
     "electron": "^20.1.1",
     "find-process": "^1.4.7",
     "fs": "^0.0.1-security",
-    "node-powershell": "^4.0.0",
+    "node-powershell": "^5.0.0",
     "regedit": "^5.1.1"
   }
 }
